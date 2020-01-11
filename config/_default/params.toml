@@ -124,7 +124,7 @@ contact_links = [
 sharing_image = "ReetamTaj.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+#twitter = ""
 
 ############################
 ## Regional Settings
@@ -213,9 +213,9 @@ plugins_js  = []
     show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
-  [comments.commento]
+  #[comments.commento]
     # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
-    url = ""
+   # url = ""
 
 ############################
 ## Search
