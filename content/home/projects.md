@@ -9,9 +9,9 @@ title = "Recent Projects"
 subtitle = ""
 
 [content]
- --  [Automatic classification of different vehicles using PyTorch]
+ --  Automatic classification of different vehicles using PyTorch
  
- -- [Automatic classification of tweets using text classifiers into different business categories]
+ -- Automatic classification of tweets using text classifiers into different business categories
  
 +++
 
