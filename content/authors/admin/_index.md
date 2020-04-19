@@ -21,9 +21,9 @@ organizations:
 bio: Graduate Student and Research Assistant at Dalhousie University.
 interests:
 - Cyber Security
+- Machine Learning
 - Intrusion Detection
-- Usable Security and Privacy
-- Machine Learning and Deep Learning
+- Malware Analysis
 
 education:
   courses:
