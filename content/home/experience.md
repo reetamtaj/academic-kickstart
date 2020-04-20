@@ -24,9 +24,6 @@ date_format = "Jan 2006"
   location = "Halifax, Canada"
   date_start = "2018-10-01"
   date_end = "Present"
-  description = """
-  
-  """
   
   [[experience]]
   title = "Head Marker - Advanced Network Security(CSCI 6708)"
