@@ -17,13 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Research Assistant"
-  company = "Mytech Lab"
-  #company_url = "https://mytechlab.cs.dal.ca/"
-  location = "Halifax, Canada"
-  date_start = "2018-10-01"
-  date_end = "Present"
   
   [[experience]]
   title = "Head Marker - Advanced Network Security(CSCI 6708)"
