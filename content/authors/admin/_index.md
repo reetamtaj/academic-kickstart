@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student and Research Assistant
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: MCS
+  - course: Master of Computer Science (MCS)
     institution: Dalhousie University
-    year: Present
+    year: May, 2020
   - course: Btech in Computer Science
     institution: West Bengal University of Technology
-    year: 2014
+    year: June, 2014
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
