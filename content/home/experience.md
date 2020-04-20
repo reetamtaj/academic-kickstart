@@ -96,6 +96,7 @@ date_format = "Jan 2006"
   date_start = "2015-01-12"
   date_end = "2018-06-30"
   description = """
+  
   - Java automation developer and UNIX administrator for building a loyalty-based application for Sears Holdings.
   - Developed cron jobs to automate the dynamic pricing and transaction process.
   - Worked in a team that was responsible for creating a cross-platform interface that ensures data flow two between Datastage and dot       net applications.
