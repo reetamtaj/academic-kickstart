@@ -34,68 +34,58 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Head Marker"
-  company = "CSCI 6708 (Advanced Network Security), Dalhousie University"
-  #company_url = ""
+  title = "Head Marker - Advanced Network Security(CSCI 6708)"
+  company = "Dalhousie University"
+  #company_url = "https://www.dal.ca"
   location = "Halifax, Canada"
   date_start = "2020-01-01"
-  date_end = ""
+  date_end = "2020-04-30"
   description = """
-  
+  Winter 2020
   """
 
 [[experience]]
-  title = "Teaching Assistant and Marker"
-  company = "CSCI2120 (Data Structures), Dalhousie University"
-  #company_url = ""
+  title = "Teaching Assistant and Marker - Data Structures (CSCI 2120) "
+  company = "Dalhousie University"
+  #company_url = "https://www.dal.ca"
   location = "Halifax, Canada"
   date_start = "2019-09-01"
   date_end = "2019-12-31"
   description = """
-  A TA for this course is required to manage and run labs. This includes giving
-presentations and guiding students through the course project and assignments.
-Managing the learning management system (Brightspace), marking assignments,
-creating and distributing rubrics and sample solutions are included.
+  Fall 2019
   """
   
   [[experience]]
-  title = "Teaching Assistant and Marker"
-  company = "CSCI3171 (Network Computing), Dalhousie University"
-  #company_url = ""
+  title = "Teaching Assistant and Marker - Network Computing (CSCI 3171) "
+  company = "Dalhousie University"
+  #company_url = "https://www.dal.ca"
   location = "Halifax, Canada"
   date_start = "2019-09-01"
   date_end = "2019-12-31"
   description = """
-  Taken care of labs, made presentations, guided students, and marked reports and
-exams. A TA of this course requires to help student in understanding top-down view
-of the layered architectural elements of communication systems, focusing on the
-Internet and TCP/IP that includes client/server systems, packet switching, protocol
-stacks, application protocols, socket programming, remote service calls, reliable
-transport, UDP, TCP, multithreading and security.
+  Fall 2019
   """
 
 [[experience]]
-  title = "Marker"
-  company = "CSCI4171/6704 (Advance Topics in Networking), Dalhousie University"
-  #company_url = ""
+  title = "Marker - Advance Topics in Networking (CSCI 4171/6704)"
+  company = "Dalhousie University"
+  #company_url = "https://www.dal.ca"
   location = "Halifax, Canada"
   date_start = "2019-09-01"
   date_end = "2019-12-31"
   description = """
-  I was involved in marking assignments and managing group project and presentations.
+  Fall 2019
   """
   
   [[experience]]
-  title = "Teaching Assistant and Marker"
-  company = "CSCI2121 (Introduction to Compter Organization using Assembly language), Dalhousie University"
-  #company_url = ""
+  title = "Teaching Assistant and Marker - Introduction to Compter Organization using Assembly language (CSCI 2121)"
+  company = "Dalhousie University"
+  #company_url = "https://www.dal.ca"
   location = "Halifax, Canada"
   date_start = "2019-01-01"
   date_end = "2019-04-30"
   description = """
-  Taken care of labs, made presentations, guided students, and marked reports and
-exams. This lab revolves around working individually towards designing hardware
-circuits using Verilog
+  Winter 2019
   """
   
   [[experience]]
