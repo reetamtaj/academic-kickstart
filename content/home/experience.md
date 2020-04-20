@@ -23,14 +23,9 @@ date_format = "Jan 2006"
   #company_url = "https://mytechlab.cs.dal.ca/"
   location = "Halifax, Canada"
   date_start = "2018-10-01"
-  date_end = ""
+  date_end = "Present"
   description = """
-  Projects: 
   
-  - **Department Of National Defense, Canada, Halifax**
-  - **Arolytics Inc**
-  - **Spritely Technologies**
-  Details
   """
   
   [[experience]]
