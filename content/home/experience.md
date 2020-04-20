@@ -96,6 +96,7 @@ date_format = "Jan 2006"
   date_start = "2015-01-12"
   date_end = "2018-06-30"
   description = """
+  Job Description:
   
   - Java automation developer and UNIX administrator for building a loyalty-based application for Sears Holdings.
   - Developed cron jobs to automate the dynamic pricing and transaction process.
