@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: Master of Computer Science (MCS)
+  - course: MSc in Computer Science
     institution: Dalhousie University
-    year: May, 2020
-  - course: Btech in Computer Science
+    year: 2020
+  - course: B.Tech in Computer Science and Engineering
     institution: West Bengal University of Technology
-    year: June, 2014
+    year: 2014
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -40,10 +40,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'rt776139@dal.ca'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:rt776139@dal.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/reetamtaj/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ReetamTaj
+
 #- icon: google-scholar
  # icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
