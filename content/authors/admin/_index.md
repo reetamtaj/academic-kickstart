@@ -71,4 +71,5 @@ user_groups:
 ---
 
 I am a research assistant at [MYTech lab](https://mytechlab.cs.dal.ca/) in [Dalhousie University](https://www.dal.ca/), Canada. I completed MSc in Computer Science from Dalhousie University in April, 2020. My [thesis](https://dalspace.library.dal.ca/handle/10222/78469) was supervised by Dr. [Srinivas Sampalli](https://web.cs.dal.ca/~srini/).
-I will be pursuing Ph.D. at Queen's University, Kingston starting September 2020, where I will be supervised by Dr.[Steven Ding](https://l1nna.com/).
+
+I will be pursuing Ph.D. at Queen's University, Kingston starting September 2020, where I will be supervised by Dr. [Steven Ding](https://l1nna.com/).
