@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a research assistant at [MYTech lab](https://mytechlab.cs.dal.ca/) in [Dalhousie University](https://www.dal.ca/), Canada. I completed MSc in Computer Science from Dalhousie University in April, 2020. My [thesis](https://dalspace.library.dal.ca/handle/10222/78469) was supervised by Dr. [Srinivas Sampalli](https://web.cs.dal.ca/~srini/).
+I am a research assistant at [MYTech lab](https://mytechlab.cs.dal.ca/) in [Dalhousie University](https://www.dal.ca/), Canada. I completed MSc in Computer Science from Dalhousie University in April, 2020. My [thesis](https://dalspace.library.dal.ca/handle/10222/78469) was supervised by Dr. [Srinivas Sampalli](https://web.cs.dal.ca/~srini/). My research concerns the intersection of cybersecurity and machine learning. I have a specific focus on ethical and responsible use of machine learning and deep learning algorithms towards identifying adversarial attempts at illegitimate access in distributed systems. 
 
 I will be pursuing Ph.D. at [Queen's School of Computing](https://www.cs.queensu.ca/) in Queen's University, Kingston starting September 2020, where I will be supervised by Dr. [Steven Ding](https://l1nna.com/).
