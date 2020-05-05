@@ -13,6 +13,13 @@ title = "Projects"
 #author = "admin"
 font_size = "S"
 +++
+[background]
+  # Background color.
+  color = "navy"
+  
+  # Background gradient.
+  gradient_start = "#4bb4e3"
+  gradient_end = "#2b94c3"
 
 
 - **Automatic classification of different vehicles using PyTorch**
