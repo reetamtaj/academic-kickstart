@@ -12,10 +12,6 @@ title = "Projects"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 #author = "admin"
 font_size = "S"
-
-[background]
-  # Background color.
-  color = "navy"
 +++
 
 
