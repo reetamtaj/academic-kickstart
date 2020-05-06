@@ -86,7 +86,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "rt776139@dal.ca"
-phone = "782 234 7582"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -121,10 +121,10 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "ReetamTaj.jpg"
+sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-#twitter = ""
+#twitter = "ReetamTaj"
 
 ############################
 ## Regional Settings
