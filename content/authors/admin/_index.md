@@ -18,7 +18,7 @@ organizations:
   url: "https://www.dal.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduate Student and Research Assistant at Dalhousie University.
+bio: Research Assistant at Dalhousie University.
 interests:
 - Cyber Security
 - Machine Learning
